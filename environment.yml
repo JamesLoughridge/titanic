@@ -1,0 +1,11 @@
+name: titanic
+
+dependencies:
+  - ipython
+  - numpy
+  - pandas
+  - jupyter
+  - matplotlib
+  - seaborn
+  - bokeh
+  - scikit-learn
