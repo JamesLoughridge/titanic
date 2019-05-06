@@ -75,7 +75,8 @@ packages:
 - jupyter
 - scikit-learn
 - ipython
-- pyviz
+- anaconda-project
+- seaborn
 #
 # In the channels section, list any Conda channel URLs to be searched
 # for packages.
